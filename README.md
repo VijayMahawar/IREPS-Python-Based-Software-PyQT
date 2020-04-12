@@ -7,6 +7,7 @@ The techniques covered in the projects are:
 - GUI Design - pyqt
 - Backend development - python
 - Frontend development - python
+- Windows Desktop Application - cx_Freeze
 
 The application developed in this project extracts tenders data from a website and does frontend activities to filter and summarize data.
 It reads tender's pdf files from the web and extract necessary information. This application is capable to update the tender database at
